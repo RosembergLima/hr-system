@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11ab6c35-2b0e-4b7b-a247-a83d68d638dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/src/main/java/com/hr/system/apigateway/ApiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api-gateway/api-gateway/src/test/java/com/hr/system/apigateway/ApiGatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/src/main/java/com/hr/system/eurekaserver/EurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../eureka-server/eureka-server/src/test/java/com/hr/system/eurekaserver/EurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/PayrollApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/domain/Payroll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/feignClients/UserFeign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/resources/PayrollResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/resources/exceptions/ResourceExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/resources/exceptions/StandardError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/services/PayrollService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/services/exceptions/ObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hr/system/payrollapi/PayrollApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/UserApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/resources/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/resources/exceptions/ResourceExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/resources/exceptions/StandardError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/resources/impl/UserResourceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/services/exceptions/ObjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/java/com/hr/system/userapi/services/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user-api/user-api/src/test/java/com/hr/system/userapi/UserApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KlpV3BiajP2J3BJeo1EHo99edG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/rosembergbezerra/HR_System/payroll-api/payroll-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/hr/system/payrollapi/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hr.system.payrollapi.services.exceptions" />
+      <recent name="com.hr.system.payrollapi.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PayrollApiApplication8100">
+    <configuration name="PayrollApiApplication8100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="payroll-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hr.system.payrollapi.PayrollApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayrollApiApplication8101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <envs>
+        <env name="PORT" value="8101" />
+      </envs>
+      <module name="payroll-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hr.system.payrollapi.PayrollApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.PayrollApiApplication8100" />
+      <item itemvalue="Spring Boot.PayrollApiApplication8101" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11ab6c35-2b0e-4b7b-a247-a83d68d638dd" name="Changes" comment="" />
+      <created>1674559058354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674559058354</updated>
+      <workItem from="1674559060784" duration="11551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
